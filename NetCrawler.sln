@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCrawler", "NetCrawler\NetCrawler.csproj", "{CC8706EB-8F59-4B5B-A80A-AA00E739A366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCrawler.Tests", "NetCrawler.Tests\NetCrawler.Tests.csproj", "{79AE2DC6-8CA7-4575-B9A7-336F2364DB6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{697517BC-31E1-40F5-9903-11CF11036682}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8706EB-8F59-4B5B-A80A-AA00E739A366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8706EB-8F59-4B5B-A80A-AA00E739A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8706EB-8F59-4B5B-A80A-AA00E739A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8706EB-8F59-4B5B-A80A-AA00E739A366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AE2DC6-8CA7-4575-B9A7-336F2364DB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AE2DC6-8CA7-4575-B9A7-336F2364DB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AE2DC6-8CA7-4575-B9A7-336F2364DB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AE2DC6-8CA7-4575-B9A7-336F2364DB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE85CCD-6088-4A8A-8270-5DADAC79D3E6}
+	EndGlobalSection
+EndGlobal
