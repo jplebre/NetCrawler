@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CC8706EB-8F59-4B5B-A80A-AA00E739A366}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCrawler/Crawler.cs">
+    <Files>
+      <File FileName="NetCrawler/Program.cs" Line="17" Column="1" />
+      <File FileName="Source Not Available" />
+      <File FileName="NetCrawler/Crawler.cs" Line="69" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/Program.cs" relfile="NetCrawler/Program.cs" line="15" column="1" />
+      <Breakpoint file="/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/Crawler.cs" relfile="NetCrawler/Crawler.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetCrawler PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,6 +1,6 @@
 # NetCrawler
 
-Crawls `https://monzo.com/`  
+Crawls `website of choice`  
 Made some decisions on what to crawl, eg.:  
 - Decided to ignore cloudflare files, to ignore links to elements in page etc.  
 - Decided to only keep one level deep linking. It'll print every page and every link for each of those pages, but only one level down.  
@@ -27,7 +27,7 @@ It would clean up that `var crawler = new Crawler(new WebPageParser(new RestClie
 It would also allow me to very easily hook up IOptions, which are a strongly typed configuration access object, where I could grab values such as httpcall timeout and concurrency without hardcoding everywhere.  
 
 ### Add console parsing ability
-would be nice users could do something like `dotnet run -host https://monzo.com -maxconcurrency 10 -timelimit 120` or similar.  
+would be nice users could do something like `dotnet run -host https://www.wikipedia.com -maxconcurrency 10 -timelimit 120` or similar.  
 There's a well known library for this in C#, probably could implement something in a few minutes. Specially with IOC already hooked up  
 
 ### Add settings to be pulled via configuration 
@@ -47,5 +47,4 @@ How many concurrent pages?                                | TimeTaken     | No. 
 **Asynchronously doing up to 2 calls concurrently:**      | 5min01s       |           557  
 **Asynchronously doing up to 4 calls concurrently:**      | 1min54s       |           557  
 **Asynchronously doing up to 6 calls concurrently:**      | 1min44s       |           557  
-**Asynchronously doing up to 10 calls concurrently:**     | 1min32s       |           557  
-**Crawling monzo.com with 10 concurrent calls:**          |     55s       |           327  
+**Asynchronously doing up to 10 calls concurrently:**     | 1min32s       |           557

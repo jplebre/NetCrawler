@@ -1,0 +1,11 @@
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/bin/Debug/netcoreapp2.0/NetCrawler.deps.json
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/bin/Debug/netcoreapp2.0/NetCrawler.runtimeconfig.json
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/bin/Debug/netcoreapp2.0/NetCrawler.runtimeconfig.dev.json
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/bin/Debug/netcoreapp2.0/NetCrawler.dll
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/bin/Debug/netcoreapp2.0/NetCrawler.pdb
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.csprojResolveAssemblyReference.cache
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.csproj.CoreCompileInputs.cache
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.AssemblyInfoInputs.cache
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.AssemblyInfo.cs
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.dll
+/Volumes/Untitled 1/Files to sort /Monzo/NetCrawler/NetCrawler/obj/Debug/netcoreapp2.0/NetCrawler.pdb
